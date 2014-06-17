@@ -16,6 +16,9 @@ m3u8 format:
 #EXTINF:10.001,
 58306.ts
 
+stun server:
+暂时先用 stunserver.org
+
 tracker protocol:
 request:
 http://livetracker.12399.org/query?c=cctvxw&k=58304.ts
